@@ -1,7 +1,6 @@
 Hi there 👋 I'm Athinarayanan G!
 https://img.shields.io/github/followers/athinarayanan12
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/athinarayanan12">
-I'm a passionate Full-Stack Developer with expertise in building scalable web applications and delivering seamless user experiences. My stack includes JavaScript, Java, Spring, Spring Boot, HTML, and CSS. I'm always eager to learn new technologies and collaborate on exciting projects.
+I'm a passionate Java Full-Stack Developer with expertise in building scalable web applications and delivering seamless user experiences. My stack includes JavaScript, Java, Spring, Spring Boot, HTML, and CSS. I'm always eager to learn new technologies and collaborate on exciting projects.
 
 ### About Me
 
